@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.worm.student.service.impl.StudentServiceImpl: 'error'
